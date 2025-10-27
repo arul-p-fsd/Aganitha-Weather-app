@@ -1,0 +1,5 @@
+{
+  "name": "Weather Now",
+  "description": "A sleek and modern weather application that provides real-time weather conditions for any city. Designed for outdoor enthusiasts who need quick and accurate weather updates.",
+  "requestFramePermissions": []
+}
